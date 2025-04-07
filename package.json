@@ -1,0 +1,24 @@
+{
+  "name": "tp1_backend_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxi10gonza/TP1_frontend_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxi10gonza/TP1_frontend_backend/issues"
+  },
+  "homepage": "https://github.com/maxi10gonza/TP1_frontend_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
